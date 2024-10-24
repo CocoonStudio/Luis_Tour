@@ -1,0 +1,17 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Rumah","order":4,"parentId":6,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":2,"expanded":true,"name":"Forest's Fury","order":6,"parentId":7,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":3,"expanded":true,"name":"Tide of Destruction Restored","order":9,"parentId":5,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":4,"expanded":true,"name":"Earth's Wrath Restored","order":11,"parentId":11,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":5,"expanded":true,"name":"Tide of Destruction","order":8,"parentId":7,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":6,"expanded":true,"name":"Desa","order":3,"parentId":7,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":7,"expanded":true,"name":"Terra Gaia","order":2,"parentId":12,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":8,"expanded":true,"name":"Terra Gaia2","order":12,"parentId":12,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":9,"expanded":true,"name":"Terra Gaia3","order":13,"parentId":12,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":10,"expanded":true,"name":"Forest's Fury Restored","order":7,"parentId":2,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":11,"expanded":true,"name":"Earth's Wrath","order":10,"parentId":7,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":12,"expanded":true,"name":"Opening","order":1,"parentId":0,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":13,"expanded":false,"name":"Epilogue","order":14,"parentId":0,"scrollX":981.5999999999999,"scrollY":550.1999999999999},
+{"id":14,"expanded":false,"name":"Perpustakaan","order":5,"parentId":6,"scrollX":981.5999999999999,"scrollY":550.1999999999999}
+]
